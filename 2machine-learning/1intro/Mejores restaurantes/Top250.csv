@@ -1,0 +1,251 @@
+Rank;Restaurant;Content;Sales; YOY_Sales ;Units; YOY_Units ;Headquarters;Segment_Category;Segment_Category_2
+1;McDonald's;NA;40412; 0,05 ;13846; -0,01 ;NA;Quick Service & Burger;1
+2;Starbucks;NA;21380; 0,09 ;15049; 0,03 ;NA;Quick Service & Coffee Cafe;2
+3;Chick-fil-A;While Popeyes got a lot of the chicken buzz in 2019, Chick-fil-A had a busy year in its own right. On top of passing Taco Bell and Subway to become the nation's third-largest chain, it introduced dine-in mobile ordering, eliminated antibiotics from its chicken and added its first new permanent menu item in three years: mac and cheese.;11320; 0,13 ;2470; 0,05 ;NA;Quick Service & Chicken;3
+4;Taco Bell;NA;11293; 0,09 ;6766; 0,03 ;NA;Quick Service & Mexican;4
+5;Burger King;NA;10204; 0,03 ;7346; 0,00 ;NA;Quick Service & Burger;1
+6;Subway;NA;10200; -0,02 ;23801; -0,04 ;NA;Quick Service & Sandwich;5
+7;Wendy's;NA;9762; 0,04 ;5852; 0,01 ;NA;Quick Service & Burger;1
+8;Dunkin';"Dunkin' dropped ""Donuts"" from its name and repositioned as a beverage-first concept, and it seems to have paid off, said Kevin Schimpf of Technomic. ""To have a good year while Starbucks is also still continuing to grow away, I think that was impressive for Dunkin',"" he said.";9228; 0,05 ;9630; 0,02 ;NA;Quick Service & Coffee Cafe;2
+9;Domino's;NA;7044; 0,07 ;6126; 0,04 ;NA;Quick Service & Pizza;6
+10;Panera Bread;NA;5890; 0,04 ;2160; 0,03 ;NA;Fast Casual & Bakery Cafe;7
+11;Pizza Hut;The chain moved to replace underperforming dine-in restaurants with takeout- and delivery-only units in 2019, leading to a 2.4% decline in unit count. Executives said in August that unit count could drop to as low as 7,000 before returning to normal levels as units are converted.;5558; 0,01 ;7306; -0,02 ;NA;Quick Service & Pizza;6
+12;Chipotle Mexican Grill;NA;5509; 0,15 ;2584; 0,05 ;NA;Fast Casual & Mexican;8
+13;Sonic Drive-In;"The drive-in chain grew same-store sales for the second straight year under new parent Inspire Brands, which acquired Sonic in 2018. It kicked off 2020 with a refreshed look and tag line: ""This is how we Sonic.""";4687; 0,05 ;3526; -0,02 ;NA;Quick Service & Burger;1
+14;KFC;NA;4546; 0,03 ;4065; -0,00 ;NA;Quick Service & Chicken;3
+15;Olive Garden;Olive Garden became the nation's largest casual-dining chain, growing sales 5% in 2019. The Italian chain seems to have had success bucking the delivery trend, delivering only for large orders of at least $75. It has also been focused on training and staffing to improve the dine-in experience.;4287; 0,05 ;866; 0,01 ;NA;Casual Dining & Italian/Pizza;9
+16;Applebee's;NA;4085; -0,03 ;1665; -0,02 ;NA;Casual Dining & Varied Menu;10
+17;Panda Express;"Panda Express has quietly established itself as a fast-casual stalwart, posting another year of double-digit sales growth (12%). ""They continue to have just strong year after strong year, and there's never any competition in their segment,"" said Schimpf.";3946; 0,12 ;2209; 0,05 ;NA;Fast Casual & Asian/Noodle;11
+18;Arby's;NA;3884; 0,02 ;3359; 0,01 ;NA;Quick Service & Sandwich;5
+19;Popeyes Louisiana Kitchen;NA;3812; 0,18 ;2476; 0,06 ;NA;Quick Service & Chicken;3
+20;Little Caesars;"The third-largest pizza chain's self-service, heated Pizza Portals have helped it stay competitive in the carryout-pizza sector. And in January, Little Caesars made its return to the delivery space, partnering with DoorDash to deliver pies for ""at least $5 less"" than its competitors.";3811; 0,03 ;4237; -0,01 ;NA;Quick Service & Pizza;6
+21;Dairy Queen;NA;3760; 0,03 ;4381; -0,01 ;NA;Quick Service & Frozen Desserts;12
+22;Buffalo Wild Wings;NA;3669; -0,00 ;1206; -0,00 ;NA;Casual Dining & Sports Bar;13
+23;Chili's Grill & Bar;NA;3563; 0,02 ;1242; -0,01 ;NA;Casual Dining & Varied Menu;10
+24;Jack in the Box;NA;3504; 0,01 ;2243; 0,00 ;NA;Quick Service & Burger;1
+25;IHOP;NA;3266; 0,02 ;1710; 0,00 ;NA;Family Dining & Family Style;14
+26;Texas Roadhouse;NA;3016; 0,11 ;553; 0,04 ;NA;Casual Dining & Steak;15
+27;Denny's;NA;2691; 0,01 ;1558; -0,02 ;NA;Family Dining & Family Style;14
+28;Papa John's;NA;2638; -0,03 ;3142; -0,02 ;NA;Quick Service & Pizza;6
+29;Outback Steakhouse;NA;2635; 0,01 ;724; -0,01 ;NA;Casual Dining & Steak;15
+30;Whataburger;NA;2556; 0,06 ;830; 0,01 ;NA;Quick Service & Burger;1
+31;Red Lobster;NA;2490; 0,02 ;679; 0,00 ;NA;Casual Dining & Seafood;16
+32;Cracker Barrel;Cracker Barrel made the most surprising deal of 2019 when it took a $140 million stake in growth chain Punch Bowl Social. But that investment was tested in March, when the chain said it would not rescue Punch Bowl from foreclosure amid the coronavirus crisis, choosing instead to focus on helping its flagship chain and newly acquired Maple Street Biscuit Co.;2482; 0,02 ;660; 0,01 ;NA;Family Dining & Family Style;14
+33;The Cheesecake Factory;NA;2180; 0,03 ;206; 0,03 ;NA;Casual Dining & Varied Menu;10
+34;Jimmy John's Gourmet Sandwiches;NA;2105; -0,02 ;2787; -0,01 ;NA;Fast Casual & Sandwich;17
+35;Hardee's;NA;2020; -0,04 ;1820; -0,01 ;NA;Quick Service & Burger;1
+36;Zaxby's;NA;1886; 0,06 ;910; 0,01 ;NA;Fast Casual & Chicken;18
+37;LongHorn Steakhouse;NA;1867; 0,06 ;530; 0,02 ;NA;Casual Dining & Steak;15
+38;Culver's;One of the country's fastest-growing chains over the past five years continued that trajectory in 2019, increasing sales by 13.9% and unit count by 6.7%. Because more than half of its sales come from takeout, it was working to improve its drive-thru technology and add mobile ordering.;1795; 0,14 ;732; 0,07 ;NA;Quick Service & Burger;1
+39;Golden Corral;NA;1746; 0,01 ;483; -0,01 ;NA;Quick Service & Family Casual;19
+40;Five Guys Burgers and Fries;NA;1661; 0,07 ;1368; 0,01 ;NA;Fast Casual & Burger;20
+41;Red Robin Gourmet Burgers and Brews;A tumultuous year for the burger chain included the retirement of CEO Denny Marie Post, who had been with Red Robin since 2011, and continued attempts by activist investors to force a sale of the company. It named Paul Murphy as its new CEO in September.;1548; -0,00 ;556; -0,03 ;NA;Casual Dining & Varied Menu;10
+42;Raising Cane's Chicken Fingers;NA;1466; 0,24 ;457; 0,14 ;NA;Fast Casual & Chicken;18
+43;Carl's Jr.;NA;1423; -0,03 ;1095; -0,02 ;NA;Quick Service & Burger;1
+44;Wingstop;2019 marked Wingstop's 16th consecutive year of comps growth. In October, it said it planned to broaden its offerings to include whole wings to take advantage of lower commodity prices on whole chickens.;1363; 0,19 ;1231; 0,10 ;NA;Fast Casual & Chicken;18
+45;Waffle House;Waffle House;1344; 0,03 ;1959; 0,01 ;NA;Family Dining & Family Style;14
+46;Jersey Mike's Subs;NA;1340; 0,17 ;1667; 0,12 ;NA;Fast Casual & Sandwich;17
+47;Bojangles';NA;1331; 0,03 ;746; -0,01 ;NA;Quick Service & Chicken;3
+48;BJ's Restaurant & Brewhouse;BJ's Restaurants' bullish approach to off-premise has paid off, helping it to pass TGI Fridays and become the No. 10 casual-dining chain. As of July, delivery sales at the chain were growing at a 20% clip, and the chain reported that takeout and catering sales were increasing as well. BJ's also overhauled its back-of-house operations in 2019 to make things more efficient and easier on employees.;1161; 0,04 ;208; 0,03 ;NA;Casual Dining & Varied Menu;10
+49;TGI Fridays;NA;1085; -0,09 ;385; -0,08 ;NA;Casual Dining & Varied Menu;10
+50;In-N-Out Burger;NA;957; 0,05 ;351; 0,04 ;NA;Quick Service & Burger;1
+51;Steak 'n Shake;As of August, the chain had temporarily closed more than 100 locations with plans to refranchise them to single-store operators. And in early 2020, it announced plans to convert about 100 units to counter service. Prior to the coronavirus crisis, it was named in a Fitch Ratings report as a chain at risk of a Chapter 11 filing.;950; -0,08 ;576; -0,03 ;NA;Quick Service & Burger;1
+52;P.F. Chang's;NA;917; 0,01 ;221; -   ;NA;Casual Dining & Asian;21
+53;Qdoba Mexican Eats;NA;901; 0,06 ;730; -0,03 ;NA;Fast Casual & Mexican;8
+54;El Pollo Loco;NA;894; 0,03 ;482; -0,00 ;NA;Quick Service & Chicken;3
+55;Krispy Kreme;NA;887; 0,04 ;364; 0,04 ;NA;Quick Service & Snack;22
+56;Hooters;NA;858; 0,00 ;341; -   ;NA;Casual Dining & Sports Bar;13
+57;Del Taco;NA;850; 0,04 ;596; 0,03 ;NA;Quick Service & Mexican;4
+58;Firehouse Subs;NA;832; 0,05 ;1155; 0,02 ;NA;Fast Casual & Sandwich;17
+59;Bob Evans;NA;795; -0,04 ;483; -0,01 ;NA;Family Dining & Family Style;14
+60;Moe's Southwest Grill;NA;749; 0,02 ;730; 0,02 ;NA;Fast Casual & Mexican;8
+61;Papa Murphy's Pizza;Though the chain saw declines in both sales and units in 2019, it remains beloved by consumers. Guests surveyed by Technomic named it their favorite limited-service pizza chain as well as a leader in tech-enabled ordering.;748; -0,06 ;1329; -0,05 ;NA;Quick Service & Pizza;6
+62;Ruby Tuesday;NA;731; -0,11 ;451; -0,08 ;NA;Casual Dining & Varied Menu;10
+63;McAlister's Deli;NA;725; 0,07 ;460; 0,04 ;NA;Fast Casual & Sandwich;17
+64;Cheddar's Scratch Kitchen;NA;724; 0,01 ;175; 0,03 ;NA;Casual Dining & Varied Menu;10
+65;Church's Chicken;NA;716; -0,05 ;1032; -0,05 ;NA;Quick Service & Chicken;3
+66;Tim Hortons;On the other side of that equation is Tim Hortons, which saw its consumer approval ratings slip by nearly 6 points in 2019, according to Technomic. A turnaround plan includes a renewed focus on the chain's core coffee and breakfast platforms along with changes to its loyalty program and a $100 million investment in drive-thru menu boards.;714; -0,04 ;715; -0,02 ;Toronto, ON;Quick Service & Coffee Cafe;2
+67;Ruth's Chris Steak House;NA;703; 0,02 ;135; 0,02 ;Winter Park, FL;Steak;23
+68;Carrabba's Italian Grill;NA;653; -0,01 ;225; -0,01 ;NA;Casual Dining & Italian/Pizza;9
+69;Jason's Deli;NA;647; -0,01 ;283; 0,02 ;NA;Fast Casual & Sandwich;17
+70;Marco's Pizza;NA;628; 0,05 ;915; 0,04 ;NA;Quick Service & Pizza;6
+71;Shake Shack;NA;622; 0,32 ;173; 0,27 ;NA;Fast Casual & Burger;20
+72;California Pizza Kitchen;NA;621; -0,03 ;199; -0,01 ;NA;Casual Dining & Italian/Pizza;9
+73;Baskin-Robbins;NA;615; 0,01 ;2524; -0,01 ;NA;Quick Service & Frozen Desserts;12
+74;Yard House;NA;609; 0,07 ;79; 0,10 ;NA;Casual Dining & Varied Menu;10
+75;Bonefish Grill;NA;587; -0,01 ;197; -   ;NA;Casual Dining & Seafood;16
+76;White Castle;NA;579; 0,02 ;371; -0,01 ;NA;Quick Service & Burger;1
+77;Tropical Smoothie Cafe;NA;576; 0,22 ;834; 0,16 ;NA;Quick Service & Beverage;24
+78;Dave & Buster's;NA;571; 0,07 ;132; 0,11 ;Dallas, TX;Sports Bar;25
+79;Dutch Bros. Coffee;NA;567; 0,15 ;369; 0,13 ;NA;Quick Service & Coffee Cafe;2
+80;Captain D's Seafood Kitchen;NA;561; 0,03 ;540; 0,02 ;NA;Quick Service & Seafood;26
+81;Auntie Anne's;NA;559; 0,00 ;1288; -0,01 ;NA;Quick Service & Snack;22
+82;First Watch;NA;558; 0,35 ;368; 0,25 ;NA;Family Dining & Family Style;14
+83;Perkins Restaurant & Bakery;After its parent company filed for Chapter 11 protection in August, the struggling family-dining chain was scooped up by Huddle House for $51.5 million. Its new owner said it had no plans to convert Perkins units into Huddle Houses or vice versa.;541; -0,10 ;309; -0,13 ;NA;Family Dining & Family Style;14
+84;Freddy's Frozen Custard & Steakburgers;NA;535; 0,13 ;368; 0,12 ;NA;Fast Casual & Burger;20
+85;Checkers Drive-In Restaurants;NA;535; -0,02 ;584; -0,00 ;NA;Quick Service & Burger;1
+86;Noodles & Company;The chain followed up on its successful 2018 introduction of zucchini noodles with a cauliflower-based noodle last year. It also saw growth via digital channels and catering, and said it was poised to resume franchise growth that had slowed in recent years as the chain stabilized.;533; 0,01 ;457; -0,00 ;NA;Fast Casual & Asian/Noodle;11
+87;Einstein Bros. Bagels;NA;517; -0,02 ;710; -0,03 ;NA;Quick Service & Bakery Cafe;27
+88;Jamba;NA;514; 0,01 ;767; -0,02 ;NA;Quick Service & Beverage;24
+89;Portillo's;NA;505; 0,12 ;62; 0,09 ;NA;Fast Casual & Sandwich;17
+90;Boston Market;NA;501; -0,10 ;390; -0,14 ;NA;Fast Casual & Chicken;18
+91;The Habit Burger Grill;NA;500; 0,15 ;273; 0,11 ;NA;Fast Casual & Burger;20
+92;Logan's Roadhouse;NA;496; -0,04 ;204; -0,01 ;NA;Casual Dining & Steak;15
+93;MOD Pizza;NA;483; 0,24 ;467; 0,18 ;NA;Fast Casual & Pizza;28
+94;Smoothie King;NA;462; 0,11 ;972; 0,08 ;NA;Quick Service & Beverage;24
+95;Mellow Mushroom;NA;461; -0,00 ;187; -0,01 ;NA;Casual Dining & Italian/Pizza;9
+96;The Capital Grille;NA;461; 0,05 ;58; -   ;NA;Fine Dining & Steak;29
+97;Round Table Pizza;NA;450; 0,01 ;435; 0,01 ;NA;Quick Service & Pizza;6
+98;Miller's Ale House;NA;446; 0,10 ;98; 0,11 ;NA;Casual Dining & Sports Bar;13
+99;Potbelly sandwich Shop;Potbelly closed stores and halted company-owned unit growth last year and hired a consulting firm to help it return to profitability. In a bid to boost operational efficiency, it debuted a new prototype in Chicago that reverses the concept's normal ordering process.;446; -0,03 ;471; -0,02 ;NA;Quick Service & Sandwich;5
+100;Hungry Howie's Pizza;NA;439; 0,07 ;537; -0,02 ;NA;Quick Service & Pizza;6
+101;Charleys Philly Steaks;NA;435; 0,05 ;540; 0,02 ;NA;Quick Service & Sandwich;5
+102;Chuy's;NA;426; 0,07 ;100; -   ;Austin, TX;Mexican;30
+103;O'Charley's;NA;426; -0,08 ;196; -0,05 ;Nashville, TN;Varied Menu;31
+104;Pollo Tropical;NA;425; -0,02 ;174; 0,03 ;Miami, FL;Chicken;32
+105;Maggiano's Little Italy;NA;417; 0,01 ;53; 0,02 ;Dallas, TX;Italian/Pizza;33
+106;Cicis;NA;410; -0,01 ;420; 0,01 ;Coppell, TX;Pizza;34
+107;Long John Silver's;NA;404; -0,08 ;850; -0,02 ;Louisville, KY;Seafood;35
+108;Saltgrass Steak House;NA;402; 0,15 ;88; 0,10 ;Houston, TX;Steak;23
+109;Chuck E. Cheese's;NA;381; -0,01 ;537; 0,01 ;Irving, TX;Pizza;34
+110;Taco John's;NA;373; 0,01 ;387; -0,01 ;Cheyenne, WY;Mexican;30
+111;Texas de Brazil Churrascaria;NA;370; 0,11 ;58; 0,09 ;Dallas, TX;Steak;23
+112;Cold Stone Creamery;NA;369; -0,02 ;895; -0,01 ;Scottsdale, AZ;Frozen Desserts;36
+113;Blaze Pizza;NA;366; 0,12 ;313; 0,06 ;Pasadena, CA;Pizza;34
+114;Peet's Coffee;NA;357; 0,04 ;423; 0,02 ;Emeryville, CA;Coffee Cafe;37
+115;Dickey's Barbecue Pit;NA;349; -0,09 ;497; -0,06 ;Dallas, TX;BBQ;38
+116;Zoes Kitchen;NA;348; 0,01 ;256; -0,02 ;Plano, TX;Sandwich;39
+117;Corner Bakery_Cafe;NA;348; -0,04 ;175; -0,04 ;Dallas, TX;Bakery Cafe;40
+118;Krystal Co.;NA;343; -0,09 ;318; -0,11 ;Dunwoody, GA;Burger;41
+119;Benihana;NA;340; 0,02 ;71; -   ;Doral, FL;Asian;42
+120;Cooper's Hawk Winery & Restaurants;NA;338; 0,20 ;41; 0,17 ;Countryside, IL;Varied Menu;31
+121;Big Boy/Frisch's Big Boy;NA;338; -0,03 ;194; -0,03 ;Warren, MI;Family Style;43
+122;Black Bear Diner;NA;336; 0,15 ;138; 0,15 ;Redding, CA;Family Style;43
+123;Twin Peaks;NA;335; 0,03 ;84; -   ;Dallas, TX;Sports Bar;25
+124;Schlotzsky's;NA;335; -0,01 ;373; 0,01 ;Atlanta, GA;Sandwich;39
+125;Jet's Pizza;NA;331; -0,02 ;383; -0,01 ;Sterling Heights, MI;Pizza;34
+126;Famous Dave's;NA;329; -0,08 ;128; -0,11 ;Minnetonka, MN;BBQ;38
+127;On The Border Mexican Grill & Cantina;NA;327; -0,06 ;136; -0,05 ;Irving, TX;Mexican;30
+128;Fogo de Chao;NA;326; 0,10 ;43; 0,13 ;Plano, TX;Steak;23
+129;Ninety Nine Restaurants;NA;324; 0,02 ;108; 0,01 ;Woburn, MA;Varied Menu;31
+130;Village Inn;NA;313; -0,08 ;183; -0,09 ;Denver, CO;Family Style;43
+131;Taco Cabana;NA;311; -0,04 ;172; 0,01 ;Addison, TX;Mexican;30
+132;Fleming's Prime Steakhouse & Wine Bar;NA;307; 0,01 ;68; -0,03 ;Tampa, FL;Steak;23
+133;Caribou Coffee;NA;306; 0,07 ;464; 0,04 ;Minneapolis, MN;Coffee Cafe;37
+134;Jack's;NA;290; 0,10 ;176; 0,09 ;Birmingham, AL;Burger;41
+135;Au Bon Pain;NA;289; -0,08 ;170; -0,06 ;Boston, MA;Bakery Cafe;40
+136;Bar Louie;NA;284; -0,06 ;128; -0,03 ;Addison, TX;Varied Menu;31
+137;Sarku Japan;NA;281; 0,02 ;224; -0,00 ;New York, NY;Asian/Noodle;44
+138;Old Chicago Pizza & Taproom;NA;275; 0,05 ;109; 0,02 ;Chattanooga, TN;Italian/Pizza;33
+139;Rally's Hamburgers;NA;275; -0,04 ;290; -0,04 ;Lexington, KY;Burger;41
+140;Torchy's Tacos;NA;272; 0,17 ;72; 0,14 ;Austin, TX;Mexican;30
+141;Pizza Ranch;NA;269; 0,07 ;212; 0,03 ;Orange City, IA;Pizza;34
+142;Pappadeaux Seafood Kitchen;NA;269; 0,03 ;40; -   ;Houston, TX;Seafood;35
+143;Braum's Ice Cream & Dairy Stores;NA;268; 0,02 ;281; -   ;Oklahoma City, OK;Frozen Desserts;36
+144;Pei Wei Asian Diner;NA;268; -0,13 ;150; -0,17 ;Irving, TX;Asian/Noodle;44
+145;Cafe Rio Mexican Grill;NA;267; 0,10 ;126; 0,07 ;Salt Lake City, UT;Mexican;30
+146;Morton's The Steakhouse;NA;266; -0,02 ;63; -0,02 ;Houston, TX;Steak;23
+147;Smashburger;NA;265; -0,07 ;312; -0,03 ;Denver, CO;Burger;41
+148;Wienerschnitzel;NA;265; 0,04 ;330; 0,02 ;Irvine, CA;Sandwich;39
+149;Sizzler;NA;259; -0,04 ;122; -0,07 ;Mission Viejo, CA;Family Casual;45
+150;Seasons 52;NA;253; 0,01 ;44; 0,05 ;Orlando, FL;Varied Menu;31
+151;Bahama Breeze Island Grille;NA;252; 0,05 ;43; 0,08 ;NA;Varied Menu;31
+152;Pret A Manger;CEO Clive Schlee retired after 16 years at the helm of the natural foods chain, handing the reign to COO Pano Christou. The transition came in July as Pret prepared to take over U.K. vegetarian chain Eat.;252; 0,05 ;95; 0,03 ;NA;Bakery Cafe;40
+153;Godfather's Pizza;NA;250; 0,05 ;569; 0,04 ;NA;Pizza;34
+154;Huddle House;NA;247; 0,01 ;342; -0,03 ;NA;Family Style;43
+155;Mastro's Restaurants;NA;242; 0,10 ;18; 0,06 ;NA;Steak;23
+156;Uncle Julio's;NA;239; 0,12 ;36; 0,03 ;NA;Mexican;30
+157;Fazoli's;NA;238; 0,03 ;215; -   ;NA;Sandwich;39
+158;Rubio's;NA;232; -0,00 ;197; -0,03 ;NA;Mexican;30
+159;Legal Sea Foods;NA;227; -0,02 ;34; -0,03 ;NA;Seafood;35
+160;A&W All-American Food;"The chain's 100th birthday found it working to reconcile its classic heritage with modern trends. It has doubled down on social media marketing to target younger generations and introduced tablet-based staff training to slow turnover. It's exploring delivery, though ""the jury's still out,"" CEO Kevin Bazner told RB in July.";227; 0,02 ;575; -0,07 ;NA;Burger;41
+161;Newk's Eatery;NA;227; 0,00 ;121; -0,01 ;NA;Sandwich;39
+162;Fuzzy's Taco Shop;NA;225; 0,09 ;152; 0,03 ;NA;Mexican;30
+163;Sbarro;NA;218; -0,04 ;300; -0,03 ;NA;Pizza;34
+164;Romano's Macaroni Grill;NA;218; -0,05 ;85; -0,03 ;NA;Italian/Pizza;33
+165;Brio Tuscan Grille;NA;217; -0,04 ;57; -0,02 ;NA;Italian/Pizza;33
+166;Lazy Dog Restaurant & Bar;NA;213; 0,21 ;36; 0,20 ;NA;Varied Menu;31
+167;Souplantation & Sweet Tomatoes;NA;211; -0,03 ;97; -   ;NA;Family Casual;45
+168;Friendly's;"The family-dining chain closed many underperforming units in 2019, including 23 on one day in April, reducing its unit count by more than 20% for the year. The 86-year-old brand cited ""shifting consumer demographics and market dynamics"" as challenges.";210; -0,15 ;160; -0,20 ;NA;Family Style;43
+169;Del Frisco's Double Eagle Steak House;NA;205; 0,12 ;16; -   ;NA;Steak;23
+170;Penn Station East Coast Subs;NA;201; 0,01 ;306; -0,01 ;NA;Sandwich;39
+171;Cinnabon;NA;201; 0,06 ;956; 0,04 ;NA;Snack;46
+172;Uno Pizzeria & Grill;NA;196; -0,13 ;85; -0,14 ;NA;Italian/Pizza;33
+173;J. Alexander's;NA;195; 0,03 ;34; 0,03 ;NA;Varied Menu;31
+174;Luby's;"Luby's, another of the industry's oldest concepts, also closed underperforming locations last year, shrinking its footprint by 6%. And in September, it said it had begun investigating ""strategic alternatives,"" or a sale, merger or refinancing.";195; -0,08 ;79; -0,06 ;NA;Family Casual;45
+175;Which Wich;Under the guidance of new President Cherry Hearn, the chain updated its food and beverage menu, starting with the introduction of french fries in July. It also planned to add more chef-created sandwiches in addition to its extensive build-your-own options.;193; -0,04 ;372; -0,04 ;NA;Sandwich;39
+176;Firebirds Wood Fired Grill;NA;192; 0,07 ;51; 0,06 ;NA;Varied Menu;31
+177;Le Pain Quotidien;NA;192; 0,01 ;94; -   ;NA;Bakery Cafe;40
+178;Sonny's BBQ;NA;191; -0,08 ;94; -0,07 ;NA;BBQ;38
+179;True Food Kitchen;The health-focused chain with a rotating menu is in growth mode, with plans for new units as well as its first stand-alone cocktail and juice bar, located next to a new True Food Kitchen location at Caesars Palace in Las Vegas.;190; 0,14 ;32; 0,28 ;NA;Varied Menu;31
+180;Buca di Beppo;NA;189; -0,06 ;76; -0,01 ;NA;Italian/Pizza;33
+181;Hard Rock Cafe;NA;187; -0,05 ;40; -0,05 ;NA;Varied Menu;31
+182;Johnny Rockets;NA;186; -0,10 ;155; -0,11 ;NA;Varied Menu;31
+183;Fuddruckers;NA;185; -0,16 ;138; -0,12 ;NA;Burger;41
+184;The Original Pancake House;NA;185; 0,03 ;141; -   ;NA;Family Style;43
+185;Sweetgreen;In June, Sweetgreen made its first acquisition: meal delivery service Galley Foods. The move signaled a new and more aggressive approach to delivery for the fast-growing chain, combining Sweetgreen's supply chain with Galley's knowledge of home delivery.;184; 0,17 ;102; 0,11 ;NA;Healthy;47
+186;Golden Chick;NA;183; 0,07 ;184; 0,01 ;NA;Chicken;32
+187;Mountain Mike's Pizza;NA;181; 0,11 ;215; 0,05 ;NA;Pizza;34
+188;Bubba Gump Shrimp Co.;NA;181; -0,03 ;27; -   ;NA;Seafood;35
+189;The Melting Pot;NA;181; -0,07 ;105; -0,08 ;NA;Varied Menu;31
+190;Farmer Boys;NA;179; 0,02 ;93; 0,01 ;NA;Burger;41
+191;Donatos Pizza;NA;179; 0,04 ;165; 0,03 ;NA;Pizza;34
+192;Shoney's;NA;179; -0,04 ;126; -0,01 ;NA;Family Style;43
+193;Taco Bueno;NA;178; -0,12 ;145; -0,12 ;NA;Mexican;30
+194;Claim Jumper;NA;177; -0,10 ;35; -0,05 ;NA;Varied Menu;31
+195;Wetzel's Pretzels;NA;177; 0,04 ;353; 0,05 ;NA;Snack;46
+196;La Madeleine Country French Cafe;NA;174; 0,02 ;87; -   ;NA;Bakery Cafe;40
+197;Giordano's;NA;173; 0,06 ;70; 0,01 ;NA;Italian/Pizza;33
+198;Islands Fine Burgers & Drinks;NA;173; 0,01 ;56; -   ;NA;Varied Menu;31
+199;Mimi's Bistro & Bakery;NA;172; -0,05 ;77; -0,03 ;NA;Varied Menu;31
+200;Beef 'O' Brady's;The chain is working on a rejuvenation, converting about 26 of its franchised units to company-owned ones and using those as testing grounds for new initiatives. It rolled out a separate lunch menu and added some higher-quality dinner options such as steak and salmon, and is also investing in high-tech fryers and a new POS system.;171; -0,05 ;153; -0,03 ;NA;Sports Bar;25
+201;Metro Diner;NA;171; 0,36 ;69; 0,03 ;NA;Family Style;43
+202;Bill Miller Bar-B-Q;NA;170; 0,04 ;75; 0,01 ;NA;BBQ;38
+203;Black Angus Steakhouse;NA;168; 0,02 ;42; -0,05 ;NA;Steak;23
+204;Smokey Bones Bar & Fire Grill;New CEO James O'Reilly, hired in May, plans to overhaul the barbecue chain's menu this year, disposing of items such as fish and chips and getting back to the basics with house-smoked barbecue, steaks and burgers. It will also focus more on the bar, with an emphasis on craft beer and cocktails.;168; -0,01 ;61; -0,03 ;NA;BBQ;38
+205;Joe's Crab Shack;NA;166; -0,07 ;53; -0,07 ;NA;Seafood;35
+206;LaRosa's Pizzeria;NA;164; 0,04 ;66; 0,03 ;NA;Italian/Pizza;33
+207;Roosters;NA;163; 0,07 ;42; 0,02 ;NA;Varied Menu;31
+208;Great Harvest Bread Co.;NA;162; -0,02 ;182; -0,01 ;NA;Bakery Cafe;40
+209;Shari's Cafe and Pies;NA;161; -0,02 ;92; -   ;NA;Family Style;43
+210;Lee's Famous Recipe Chicken;NA;161; -0,02 ;129; -0,02 ;NA;Chicken;32
+211;Wayback Burgers;NA;159; 0,02 ;143; 0,01 ;NA;Burger;41
+212;McCormick & Schmick's;NA;157; -0,16 ;35; -0,15 ;NA;Seafood;35
+213;Grand Lux Cafe;NA;157; 0,01 ;13; -   ;NA;Varied Menu;31
+214;Anthony's Coal Fired Pizza;NA;153; 0,04 ;68; 0,02 ;NA;Italian/Pizza;33
+215;Chicken Salad Chick;Benefiting from being perhaps the only chain focusing on chicken salad, Chicken Salad Chick announced its 16th consecutive quarter of same-store sales growth in February 2020. It was acquired by private-equity firm Brentwood Associates in November.;153; 0,40 ;144; 0,39 ;NA;Chicken;32
+216;Paris Baguette;The chain originating in South Korea is growing quickly in the U.S. under the guidance of growth-chain veterans such as Darren Tipton and Jack Moran, formerly of Le Pain Quotidien. Tipton moved up to CEO for U.S. operations in 2019, and Moran became the company's global chief.;152; 0,15 ;81; 0,08 ;NA;Bakery Cafe;40
+217;Eat'n Park;NA;152; -0,07 ;63; -0,07 ;NA;Family Style;43
+218;Hurricane Grill & Wings;NA;151; 0,01 ;56; -   ;NA;Sports Bar;25
+219;The Old Spaghetti Factory;NA;150; 0,02 ;42; -   ;NA;Italian/Pizza;33
+220;Taziki's Mediterranean Cafe;NA;149; 0,12 ;93; 0,07 ;NA;Ethnic;48
+221;Menchie's Frozen Yogurt;NA;149; -0,03 ;416; -0,02 ;NA;Frozen Desserts;36
+222;Bruegger's Bagels;NA;148; -0,05 ;210; -0,03 ;NA;Bakery Cafe;40
+223;Tijuana Flats;NA;147; 0,07 ;139; 0,02 ;NA;Mexican;30
+224;Duffy's Sports Grill;NA;144; 0,03 ;34; -   ;NA;Sports Bar;25
+225;Eddie V's Prime Seafood;NA;144; 0,08 ;21; 0,11 ;NA;Seafood;35
+226;Topgolf;The eatertainment chain developed a new, smaller prototype that will allow it to go into small and midsize cities, greatly expanding its potential market. It was focused on places with between 100,000 and 500,000 residents. The first such location opened in Kirkland, Wash., in January.;144; 0,15 ;54; 0,15 ;NA;Varied Menu;31
+227;Ocean Prime;NA;144; 0,20 ;16; 0,07 ;NA;Seafood;35
+228;Pappasito's Cantina;NA;143; 0,02 ;25; -   ;NA;Mexican;30
+229;Pollo Campero;NA;143; 0,01 ;78; -0,03 ;NA;Chicken;32
+230;Houlihan's;The chain filed for bankruptcy in November and was simultaneously acquired by Landry's for $40 million. The move followed the closure of 12 unprofitable stores. It joins Landry's collection of polished-casual chains such as Morton's The Steakhouse and McCormick & Schmick's.;143; -0,21 ;45; -0,33 ;NA;Varied Menu;31
+231;Old Country Buffet/HomeTown Buffet;NA;142; -0,19 ;49; -0,25 ;NA;Family Casual;45
+232;Great American Cookies;NA;142; 0,03 ;368; 0,02 ;NA;Snack;46
+233;Nobu;NA;139; 0,09 ;17; 0,13 ;NA;Asian;42
+234;BurgerFi;NA;138; 0,03 ;112; 0,08 ;NA;Burger;41
+235;Mission BBQ;NA;136; 0,25 ;90; 0,22 ;NA;BBQ;38
+236;Walk-On's Sports Bistreaux;NA;133; 0,28 ;33; 0,38 ;NA;Sports Bar;25
+237;The Coffee Bean & Tea Leaf;The LA-based chain was acquired by Jollibee in July for $350 million, becoming the largest deal yet for the international fast-food company. Jollibee planned to grow the The Coffee Bean in Asia, where there's a race for coffee supremacy.;133; -0,02 ;282; -0,01 ;NA;Coffee Cafe;37
+238;Yogurtland;NA;132; -0,03 ;267; -0,02 ;NA;Frozen Desserts;36
+239;Daylight Donuts;NA;132; 0,02 ;415; 0,00 ;NA;Snack;46
+240;WaBa Grill;NA;132; 0,04 ;191; -   ;NA;Asian/Noodle;44
+241;54th Street Restaurant & Drafthouse;NA;131; 0,05 ;31; 0,07 ;NA;Varied Menu;31
+242;Biggby Coffee;NA;129; 0,04 ;240; 0,01 ;NA;Coffee Cafe;37
+243;Costa Vida Fresh Mexican Grill;NA;129; 0,05 ;93; 0,02 ;NA;Mexican;30
+244;L&L Hawaiian Barbecue;NA;129; 0,05 ;195; 0,04 ;NA;BBQ;38
+245;Gyu-Kaku;NA;129; 0,19 ;52; 0,08 ;NA;Asian;42
+246;Rainforest Cafe;NA;129; -0,10 ;18; -0,05 ;NA;Varied Menu;31
+247;PDQ;NA;127; -0,06 ;56; -0,11 ;NA;Chicken;32
+248;Lupe Tortilla;NA;127; 0,12 ;25; 0,09 ;NA;Mexican;30
+249;Cook-Out Restaurant;NA;126; 0,10 ;270; 0,07 ;NA;Burger;41
+250;Jollibee;NA;126; 0,15 ;40; 0,11 ;NA;Chicken;32

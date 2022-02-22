@@ -1,0 +1,75 @@
+# Data Set: Conjunto de datos de popularidad de noticias online
+
+Source: https://archive.ics.uci.edu/ml/datasets/online+news+popularity#
+<br> Note: Don't use the file from this URL. Rather use the dataset attached with project as column names are changed to remove spaces.
+
+
+https://www.kaggle.com/sunita15/social-media-dataset
+
+
+**Attribute Information:<br>**
+Number of Attributes: 61 including target column -- shares
+
+Attribute Information: 
+0. url	:	 URL of the article 
+1. timedelta	:	Días entre la publicación del artículo y la adquisición del conjunto de datos
+2. n_tokens_title	:	 Número de palabras en el título
+3. n_tokens_content	:	 Número de palabras en el contenido
+4. n_unique_tokens	:	 Tasa de palabras únicas en el contenido
+5. n_non_stop_words	:	 Tasa de palabras continuas en el contenido
+6. n_non_stop_unique_tokens	:	 Tasa de palabras únicas continuas en el contenido
+7. num_hrefs	:	 Numero de enlaces
+8. num_self_hrefs	:	 Número de enlaces a otros artículos publicados por Mashable
+9. num_imgs	:	 Numero de imagenes
+10. num_videos	:	 Numero de videos
+11. average_token_length	:	 Longitud media de las palabras del contenido
+12. num_keywords	:	 Número de palabras clave en los metadatos
+13. data_channel_is_lifestyle	:	 ¿El canal de datos es 'Estilo de vida'?
+14. data_channel_is_entertainment	:	 ¿El canal de datos es 'Entretenimiento'?
+15. data_channel_is_bus	:	 ¿El canal de datos es 'Negocio'?
+16. data_channel_is_socmed	:	 ¿El canal de datos es 'Social Media'?
+17. data_channel_is_tech	:	 ¿El canal de datos es 'Tech'?
+18. data_channel_is_world	:	 ¿El canal de datos es 'Mundial'?
+19. kw_min_min	:	 Peor palabra clave (mínimo compartido)
+20. kw_max_min	:	 Peor palabra clave (máx. Acciones)
+21. kw_avg_min	:	 Peor palabra clave (acciones promedio)
+22. kw_min_max	:	 Mejor palabra clave (mínimo compartido)
+23. kw_max_max	:	 Mejor palabra clave (acciones máximas)
+24. kw_avg_max	:	 Mejor palabra clave (acciones promedio)
+25. kw_min_avg	:	 Promedio palabra clave (min. acciones)
+26. kw_max_avg	:	 Promedio palabra clave (máx. acciones)
+27. kw_avg_avg	:	 Promedio palabra clave (promedio de acciones)
+28. self_reference_min_shares	:	 Min. acciones de artículos referenciados en Mashable
+29. self_reference_max_shares	:	 Max. acciones de artículos referenciados en Mashable
+30. self_reference_avg_sharess	:	 Promedio acciones de artículos referenciados en Mashable
+31. weekday_is_monday	:	 ¿Se publicó el artículo un lunes?
+32. weekday_is_tuesday	:	 ¿Se publicó el artículo un martes?
+33. weekday_is_wednesday	:	 ¿Se publicó el artículo un miércoles?
+34. weekday_is_thursday	:	 ¿Se publicó el artículo un jueves?
+35. weekday_is_friday	:	 ¿Se publicó el artículo un viernes?
+36. weekday_is_saturday	:	 ¿Se publicó el artículo un sábado?
+37. weekday_is_sunday	:	 ¿Se publicó el artículo un domingo?
+38. is_weekend	:	 ¿Se publicó el artículo el fin de semana?
+39. LDA_00	:	 Cercanía al tema 0 de LDA
+40. LDA_01	:	 Cercanía al tema 1 de LDA
+41. LDA_02	:	 Cercanía al tema 2 de LDA
+42. LDA_03	:	 Cercanía al tema 3 de LDA
+43. LDA_04	:	 Cercanía al tema 4 de LDA
+44. global_subjectivity	:	 Subjetividad del texto
+45. global_sentiment_polarity	:	 Polaridad del sentimiento del texto
+46. global_rate_positive_words	:	 Tasa de palabras positivas en el contenido
+47. global_rate_negative_words	:	 Tasa de palabras negativas en el contenido
+48. rate_positive_words	:	 Tasa de palabras positivas entre tokens no neutrales
+49. rate_negative_words	:	 Tasa de palabras negativas entre tokens no neutrales
+50. avg_positive_polarity	:	 Promedio polaridad de palabras positivas
+51. min_positive_polarity	:	 Min. polaridad de palabras positivas
+52. max_positive_polarity	:	 Max. polaridad de palabras positivas
+53. avg_negative_polarity	:	 Promedio polaridad de palabras negativas
+54. min_negative_polarity	:	 Min. polaridad de palabras negativas
+55. max_negative_polarity	:	 Max. polaridad de palabras negativas
+56. title_subjectivity	:	 Subjetividad del título
+57. title_sentiment_polarity	:	 Polaridad del título
+58. abs_title_subjectivity	:	 Nivel de subjetividad absoluta
+59. abs_title_sentiment_polarity	:	 Nivel de polaridad absoluta
+60. shares	:	 Número de acciones (objetivo)
+

@@ -1,0 +1,13 @@
+Rank: posición en el ranking
+Restaurant: nombre del restuarante
+Content: ciudad de localidad
+Sales: ventas en el 2019 en miles
+YOY_Sales: Incremento de ventas año tras año en %
+Units: Número de locales
+YOY_Units: Incremento anual de locales en%
+Headquarters: locación de la sede
+Segment_Category: Clasificación de establecimiento
+Segment_Category_2: Clasificación de establecimiento Codificado
+
+https://www.kaggle.com/michau96/restaurant-business-rankings-2020
+

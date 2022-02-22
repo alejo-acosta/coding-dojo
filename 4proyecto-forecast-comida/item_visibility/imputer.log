@@ -1,0 +1,460 @@
+2022-01-16 20:59:35,225 [INFO]  
+========== start: fit model
+2022-01-16 20:59:35,226 [WARNING]  Already bound, ignoring bind()
+2022-01-16 20:59:35,305 [INFO]  Epoch[0] Batch [0-105]	Speed: 22641.61 samples/sec	cross-entropy=16.171285	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,387 [INFO]  Epoch[0] Train-cross-entropy=17.294364
+2022-01-16 20:59:35,388 [INFO]  Epoch[0] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,389 [INFO]  Epoch[0] Time cost=0.160
+2022-01-16 20:59:35,394 [INFO]  Saved checkpoint to "item_visibility\model-0000.params"
+2022-01-16 20:59:35,405 [INFO]  Epoch[0] Validation-cross-entropy=15.096720
+2022-01-16 20:59:35,406 [INFO]  Epoch[0] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,494 [INFO]  Epoch[1] Batch [0-105]	Speed: 19512.98 samples/sec	cross-entropy=15.899073	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,584 [INFO]  Epoch[1] Train-cross-entropy=17.289497
+2022-01-16 20:59:35,585 [INFO]  Epoch[1] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,585 [INFO]  Epoch[1] Time cost=0.178
+2022-01-16 20:59:35,590 [INFO]  Saved checkpoint to "item_visibility\model-0001.params"
+2022-01-16 20:59:35,602 [INFO]  Epoch[1] Validation-cross-entropy=15.127787
+2022-01-16 20:59:35,603 [INFO]  Epoch[1] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,691 [INFO]  Epoch[2] Batch [0-105]	Speed: 19516.17 samples/sec	cross-entropy=15.824067	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,764 [INFO]  Epoch[2] Train-cross-entropy=17.254058
+2022-01-16 20:59:35,765 [INFO]  Epoch[2] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,765 [INFO]  Epoch[2] Time cost=0.162
+2022-01-16 20:59:35,769 [INFO]  Saved checkpoint to "item_visibility\model-0002.params"
+2022-01-16 20:59:35,780 [INFO]  Epoch[2] Validation-cross-entropy=15.150177
+2022-01-16 20:59:35,780 [INFO]  Epoch[2] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,867 [INFO]  Epoch[3] Batch [0-105]	Speed: 20140.83 samples/sec	cross-entropy=15.772856	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,954 [INFO]  Epoch[3] Train-cross-entropy=17.208530
+2022-01-16 20:59:35,954 [INFO]  Epoch[3] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:35,955 [INFO]  Epoch[3] Time cost=0.174
+2022-01-16 20:59:35,960 [INFO]  Saved checkpoint to "item_visibility\model-0003.params"
+2022-01-16 20:59:35,972 [INFO]  Epoch[3] Validation-cross-entropy=15.146524
+2022-01-16 20:59:35,973 [INFO]  Epoch[3] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,065 [INFO]  Epoch[4] Batch [0-105]	Speed: 18743.45 samples/sec	cross-entropy=15.729971	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,134 [INFO]  Epoch[4] Train-cross-entropy=17.159904
+2022-01-16 20:59:36,135 [INFO]  Epoch[4] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,136 [INFO]  Epoch[4] Time cost=0.162
+2022-01-16 20:59:36,140 [INFO]  Saved checkpoint to "item_visibility\model-0004.params"
+2022-01-16 20:59:36,149 [INFO]  Epoch[4] Validation-cross-entropy=15.124405
+2022-01-16 20:59:36,149 [INFO]  Epoch[4] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,227 [INFO]  Epoch[5] Batch [0-105]	Speed: 22054.14 samples/sec	cross-entropy=15.689817	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,299 [INFO]  Epoch[5] Train-cross-entropy=17.113598
+2022-01-16 20:59:36,300 [INFO]  Epoch[5] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,301 [INFO]  Epoch[5] Time cost=0.150
+2022-01-16 20:59:36,305 [INFO]  Saved checkpoint to "item_visibility\model-0005.params"
+2022-01-16 20:59:36,317 [INFO]  Epoch[5] Validation-cross-entropy=15.096483
+2022-01-16 20:59:36,317 [INFO]  Epoch[5] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,397 [INFO]  Epoch[6] Batch [0-105]	Speed: 21431.14 samples/sec	cross-entropy=15.655625	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,472 [INFO]  Epoch[6] Train-cross-entropy=17.074675
+2022-01-16 20:59:36,473 [INFO]  Epoch[6] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,473 [INFO]  Epoch[6] Time cost=0.156
+2022-01-16 20:59:36,478 [INFO]  Saved checkpoint to "item_visibility\model-0006.params"
+2022-01-16 20:59:36,488 [INFO]  Epoch[6] Validation-cross-entropy=15.068020
+2022-01-16 20:59:36,489 [INFO]  Epoch[6] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,623 [INFO]  Epoch[7] Batch [0-105]	Speed: 12657.39 samples/sec	cross-entropy=15.625834	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,710 [INFO]  Epoch[7] Train-cross-entropy=17.040366
+2022-01-16 20:59:36,712 [INFO]  Epoch[7] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,714 [INFO]  Epoch[7] Time cost=0.225
+2022-01-16 20:59:36,720 [INFO]  Saved checkpoint to "item_visibility\model-0007.params"
+2022-01-16 20:59:36,733 [INFO]  Epoch[7] Validation-cross-entropy=15.044141
+2022-01-16 20:59:36,734 [INFO]  Epoch[7] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,815 [INFO]  Epoch[8] Batch [0-105]	Speed: 21533.18 samples/sec	cross-entropy=15.599803	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,895 [INFO]  Epoch[8] Train-cross-entropy=17.010987
+2022-01-16 20:59:36,896 [INFO]  Epoch[8] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,896 [INFO]  Epoch[8] Time cost=0.161
+2022-01-16 20:59:36,901 [INFO]  Saved checkpoint to "item_visibility\model-0008.params"
+2022-01-16 20:59:36,911 [INFO]  Epoch[8] Validation-cross-entropy=15.026371
+2022-01-16 20:59:36,912 [INFO]  Epoch[8] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:36,993 [INFO]  Epoch[9] Batch [0-105]	Speed: 21522.06 samples/sec	cross-entropy=15.576242	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,065 [INFO]  Epoch[9] Train-cross-entropy=16.985035
+2022-01-16 20:59:37,066 [INFO]  Epoch[9] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,066 [INFO]  Epoch[9] Time cost=0.153
+2022-01-16 20:59:37,071 [INFO]  Saved checkpoint to "item_visibility\model-0009.params"
+2022-01-16 20:59:37,081 [INFO]  Epoch[9] Validation-cross-entropy=15.014095
+2022-01-16 20:59:37,082 [INFO]  Epoch[9] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,155 [INFO]  Epoch[10] Batch [0-105]	Speed: 23828.37 samples/sec	cross-entropy=15.555813	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,222 [INFO]  Epoch[10] Train-cross-entropy=16.962323
+2022-01-16 20:59:37,223 [INFO]  Epoch[10] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,223 [INFO]  Epoch[10] Time cost=0.140
+2022-01-16 20:59:37,227 [INFO]  Saved checkpoint to "item_visibility\model-0010.params"
+2022-01-16 20:59:37,237 [INFO]  Epoch[10] Validation-cross-entropy=15.006884
+2022-01-16 20:59:37,238 [INFO]  Epoch[10] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,314 [INFO]  Epoch[11] Batch [0-105]	Speed: 22591.67 samples/sec	cross-entropy=15.538007	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,385 [INFO]  Epoch[11] Train-cross-entropy=16.941434
+2022-01-16 20:59:37,387 [INFO]  Epoch[11] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,387 [INFO]  Epoch[11] Time cost=0.148
+2022-01-16 20:59:37,391 [INFO]  Saved checkpoint to "item_visibility\model-0011.params"
+2022-01-16 20:59:37,402 [INFO]  Epoch[11] Validation-cross-entropy=15.002800
+2022-01-16 20:59:37,403 [INFO]  Epoch[11] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,484 [INFO]  Epoch[12] Batch [0-105]	Speed: 21178.83 samples/sec	cross-entropy=15.522019	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,552 [INFO]  Epoch[12] Train-cross-entropy=16.919976
+2022-01-16 20:59:37,553 [INFO]  Epoch[12] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,554 [INFO]  Epoch[12] Time cost=0.150
+2022-01-16 20:59:37,558 [INFO]  Saved checkpoint to "item_visibility\model-0012.params"
+2022-01-16 20:59:37,569 [INFO]  Epoch[12] Validation-cross-entropy=15.001326
+2022-01-16 20:59:37,570 [INFO]  Epoch[12] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,648 [INFO]  Epoch[13] Batch [0-105]	Speed: 22233.82 samples/sec	cross-entropy=15.507616	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,728 [INFO]  Epoch[13] Train-cross-entropy=16.900005
+2022-01-16 20:59:37,728 [INFO]  Epoch[13] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,729 [INFO]  Epoch[13] Time cost=0.159
+2022-01-16 20:59:37,734 [INFO]  Saved checkpoint to "item_visibility\model-0013.params"
+2022-01-16 20:59:37,748 [INFO]  Epoch[13] Validation-cross-entropy=15.001768
+2022-01-16 20:59:37,749 [INFO]  Epoch[13] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,833 [INFO]  Epoch[14] Batch [0-105]	Speed: 20478.33 samples/sec	cross-entropy=15.495223	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,908 [INFO]  Epoch[14] Train-cross-entropy=16.880959
+2022-01-16 20:59:37,909 [INFO]  Epoch[14] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:37,909 [INFO]  Epoch[14] Time cost=0.161
+2022-01-16 20:59:37,915 [INFO]  Saved checkpoint to "item_visibility\model-0014.params"
+2022-01-16 20:59:37,925 [INFO]  Epoch[14] Validation-cross-entropy=15.004264
+2022-01-16 20:59:37,926 [INFO]  Epoch[14] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,009 [INFO]  Epoch[15] Batch [0-105]	Speed: 20557.13 samples/sec	cross-entropy=15.483806	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,081 [INFO]  Epoch[15] Train-cross-entropy=16.863629
+2022-01-16 20:59:38,082 [INFO]  Epoch[15] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,083 [INFO]  Epoch[15] Time cost=0.157
+2022-01-16 20:59:38,088 [INFO]  Saved checkpoint to "item_visibility\model-0015.params"
+2022-01-16 20:59:38,097 [INFO]  Epoch[15] Validation-cross-entropy=15.008627
+2022-01-16 20:59:38,098 [INFO]  Epoch[15] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,172 [INFO]  Epoch[16] Batch [0-105]	Speed: 23529.51 samples/sec	cross-entropy=15.474225	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,233 [INFO]  Epoch[16] Train-cross-entropy=16.848449
+2022-01-16 20:59:38,234 [INFO]  Epoch[16] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,234 [INFO]  Epoch[16] Time cost=0.137
+2022-01-16 20:59:38,239 [INFO]  Saved checkpoint to "item_visibility\model-0016.params"
+2022-01-16 20:59:38,249 [INFO]  Epoch[16] Validation-cross-entropy=15.013639
+2022-01-16 20:59:38,249 [INFO]  Epoch[16] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,328 [INFO]  Epoch[17] Batch [0-105]	Speed: 22222.25 samples/sec	cross-entropy=15.464906	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,401 [INFO]  Epoch[17] Train-cross-entropy=16.834474
+2022-01-16 20:59:38,401 [INFO]  Epoch[17] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:38,402 [INFO]  Epoch[17] Time cost=0.152
+2022-01-16 20:59:38,406 [INFO]  Saved checkpoint to "item_visibility\model-0017.params"
+2022-01-16 20:59:38,415 [INFO]  No improvement detected for 5 epochs compared to 15.001325766245523 last error obtained: 15.01784853140513, stopping here
+2022-01-16 20:59:38,415 [INFO]  
+========== done (3.1904189586639404 s) fit model
+2022-01-16 20:59:42,928 [INFO]  
+========== start: fit model
+2022-01-16 20:59:42,929 [WARNING]  Already bound, ignoring bind()
+2022-01-16 20:59:43,024 [INFO]  Epoch[0] Batch [0-105]	Speed: 18394.34 samples/sec	cross-entropy=16.178518	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,105 [INFO]  Epoch[0] Train-cross-entropy=17.263514
+2022-01-16 20:59:43,105 [INFO]  Epoch[0] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,105 [INFO]  Epoch[0] Time cost=0.175
+2022-01-16 20:59:43,108 [INFO]  Saved checkpoint to "item_visibility\model-0000.params"
+2022-01-16 20:59:43,116 [INFO]  Epoch[0] Validation-cross-entropy=15.107969
+2022-01-16 20:59:43,116 [INFO]  Epoch[0] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,193 [INFO]  Epoch[1] Batch [0-105]	Speed: 22194.11 samples/sec	cross-entropy=15.847618	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,269 [INFO]  Epoch[1] Train-cross-entropy=17.252632
+2022-01-16 20:59:43,269 [INFO]  Epoch[1] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,269 [INFO]  Epoch[1] Time cost=0.153
+2022-01-16 20:59:43,272 [INFO]  Saved checkpoint to "item_visibility\model-0001.params"
+2022-01-16 20:59:43,284 [INFO]  Epoch[1] Validation-cross-entropy=15.137782
+2022-01-16 20:59:43,284 [INFO]  Epoch[1] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,361 [INFO]  Epoch[2] Batch [0-105]	Speed: 22136.80 samples/sec	cross-entropy=15.776652	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,434 [INFO]  Epoch[2] Train-cross-entropy=17.202657
+2022-01-16 20:59:43,434 [INFO]  Epoch[2] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,435 [INFO]  Epoch[2] Time cost=0.151
+2022-01-16 20:59:43,438 [INFO]  Saved checkpoint to "item_visibility\model-0002.params"
+2022-01-16 20:59:43,444 [INFO]  Epoch[2] Validation-cross-entropy=15.137486
+2022-01-16 20:59:43,445 [INFO]  Epoch[2] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,517 [INFO]  Epoch[3] Batch [0-105]	Speed: 23656.70 samples/sec	cross-entropy=15.722989	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,581 [INFO]  Epoch[3] Train-cross-entropy=17.145944
+2022-01-16 20:59:43,581 [INFO]  Epoch[3] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,581 [INFO]  Epoch[3] Time cost=0.136
+2022-01-16 20:59:43,584 [INFO]  Saved checkpoint to "item_visibility\model-0003.params"
+2022-01-16 20:59:43,591 [INFO]  Epoch[3] Validation-cross-entropy=15.106325
+2022-01-16 20:59:43,592 [INFO]  Epoch[3] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,659 [INFO]  Epoch[4] Batch [0-105]	Speed: 24953.81 samples/sec	cross-entropy=15.677526	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,722 [INFO]  Epoch[4] Train-cross-entropy=17.097349
+2022-01-16 20:59:43,723 [INFO]  Epoch[4] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,723 [INFO]  Epoch[4] Time cost=0.131
+2022-01-16 20:59:43,725 [INFO]  Saved checkpoint to "item_visibility\model-0004.params"
+2022-01-16 20:59:43,731 [INFO]  Epoch[4] Validation-cross-entropy=15.074280
+2022-01-16 20:59:43,731 [INFO]  Epoch[4] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,806 [INFO]  Epoch[5] Batch [0-105]	Speed: 22902.78 samples/sec	cross-entropy=15.637699	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,879 [INFO]  Epoch[5] Train-cross-entropy=17.056179
+2022-01-16 20:59:43,879 [INFO]  Epoch[5] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,880 [INFO]  Epoch[5] Time cost=0.148
+2022-01-16 20:59:43,882 [INFO]  Saved checkpoint to "item_visibility\model-0005.params"
+2022-01-16 20:59:43,892 [INFO]  Epoch[5] Validation-cross-entropy=15.048678
+2022-01-16 20:59:43,893 [INFO]  Epoch[5] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:43,978 [INFO]  Epoch[6] Batch [0-105]	Speed: 19832.29 samples/sec	cross-entropy=15.606385	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,055 [INFO]  Epoch[6] Train-cross-entropy=17.022572
+2022-01-16 20:59:44,055 [INFO]  Epoch[6] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,055 [INFO]  Epoch[6] Time cost=0.163
+2022-01-16 20:59:44,058 [INFO]  Saved checkpoint to "item_visibility\model-0006.params"
+2022-01-16 20:59:44,066 [INFO]  Epoch[6] Validation-cross-entropy=15.030763
+2022-01-16 20:59:44,066 [INFO]  Epoch[6] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,145 [INFO]  Epoch[7] Batch [0-105]	Speed: 21531.53 samples/sec	cross-entropy=15.580628	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,212 [INFO]  Epoch[7] Train-cross-entropy=16.992493
+2022-01-16 20:59:44,212 [INFO]  Epoch[7] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,212 [INFO]  Epoch[7] Time cost=0.146
+2022-01-16 20:59:44,215 [INFO]  Saved checkpoint to "item_visibility\model-0007.params"
+2022-01-16 20:59:44,225 [INFO]  Epoch[7] Validation-cross-entropy=15.020836
+2022-01-16 20:59:44,225 [INFO]  Epoch[7] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,304 [INFO]  Epoch[8] Batch [0-105]	Speed: 21370.82 samples/sec	cross-entropy=15.557793	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,382 [INFO]  Epoch[8] Train-cross-entropy=16.966376
+2022-01-16 20:59:44,382 [INFO]  Epoch[8] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,382 [INFO]  Epoch[8] Time cost=0.157
+2022-01-16 20:59:44,385 [INFO]  Saved checkpoint to "item_visibility\model-0008.params"
+2022-01-16 20:59:44,392 [INFO]  Epoch[8] Validation-cross-entropy=15.012392
+2022-01-16 20:59:44,393 [INFO]  Epoch[8] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,470 [INFO]  Epoch[9] Batch [0-105]	Speed: 21899.44 samples/sec	cross-entropy=15.537780	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,533 [INFO]  Epoch[9] Train-cross-entropy=16.945301
+2022-01-16 20:59:44,534 [INFO]  Epoch[9] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,534 [INFO]  Epoch[9] Time cost=0.141
+2022-01-16 20:59:44,536 [INFO]  Saved checkpoint to "item_visibility\model-0009.params"
+2022-01-16 20:59:44,546 [INFO]  Epoch[9] Validation-cross-entropy=15.007775
+2022-01-16 20:59:44,546 [INFO]  Epoch[9] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,612 [INFO]  Epoch[10] Batch [0-105]	Speed: 25888.96 samples/sec	cross-entropy=15.521219	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,677 [INFO]  Epoch[10] Train-cross-entropy=16.925255
+2022-01-16 20:59:44,677 [INFO]  Epoch[10] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,677 [INFO]  Epoch[10] Time cost=0.131
+2022-01-16 20:59:44,681 [INFO]  Saved checkpoint to "item_visibility\model-0010.params"
+2022-01-16 20:59:44,688 [INFO]  Epoch[10] Validation-cross-entropy=15.006726
+2022-01-16 20:59:44,688 [INFO]  Epoch[10] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,754 [INFO]  Epoch[11] Batch [0-105]	Speed: 25895.24 samples/sec	cross-entropy=15.506863	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,822 [INFO]  Epoch[11] Train-cross-entropy=16.905259
+2022-01-16 20:59:44,823 [INFO]  Epoch[11] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,823 [INFO]  Epoch[11] Time cost=0.135
+2022-01-16 20:59:44,825 [INFO]  Saved checkpoint to "item_visibility\model-0011.params"
+2022-01-16 20:59:44,835 [INFO]  Epoch[11] Validation-cross-entropy=15.008046
+2022-01-16 20:59:44,835 [INFO]  Epoch[11] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,906 [INFO]  Epoch[12] Batch [0-105]	Speed: 23845.87 samples/sec	cross-entropy=15.493986	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,966 [INFO]  Epoch[12] Train-cross-entropy=16.885226
+2022-01-16 20:59:44,967 [INFO]  Epoch[12] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:44,967 [INFO]  Epoch[12] Time cost=0.132
+2022-01-16 20:59:44,969 [INFO]  Saved checkpoint to "item_visibility\model-0012.params"
+2022-01-16 20:59:44,977 [INFO]  Epoch[12] Validation-cross-entropy=15.011229
+2022-01-16 20:59:44,977 [INFO]  Epoch[12] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:45,039 [INFO]  Epoch[13] Batch [0-105]	Speed: 27668.76 samples/sec	cross-entropy=15.482116	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:45,107 [INFO]  Epoch[13] Train-cross-entropy=16.865938
+2022-01-16 20:59:45,107 [INFO]  Epoch[13] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:45,107 [INFO]  Epoch[13] Time cost=0.129
+2022-01-16 20:59:45,110 [INFO]  Saved checkpoint to "item_visibility\model-0013.params"
+2022-01-16 20:59:45,118 [INFO]  Epoch[13] Validation-cross-entropy=15.013454
+2022-01-16 20:59:45,118 [INFO]  Epoch[13] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:45,189 [INFO]  Epoch[14] Batch [0-105]	Speed: 24030.80 samples/sec	cross-entropy=15.471920	Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:45,251 [INFO]  Epoch[14] Train-cross-entropy=16.847903
+2022-01-16 20:59:45,251 [INFO]  Epoch[14] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 20:59:45,251 [INFO]  Epoch[14] Time cost=0.133
+2022-01-16 20:59:45,254 [INFO]  Saved checkpoint to "item_visibility\model-0014.params"
+2022-01-16 20:59:45,261 [INFO]  No improvement detected for 5 epochs compared to 15.007775008678436 last error obtained: 15.014599561691284, stopping here
+2022-01-16 20:59:45,261 [INFO]  
+========== done (2.3334147930145264 s) fit model
+2022-01-16 21:00:11,316 [INFO]  
+========== start: fit model
+2022-01-16 21:00:11,316 [WARNING]  Already bound, ignoring bind()
+2022-01-16 21:00:11,381 [INFO]  Epoch[0] Batch [0-105]	Speed: 27358.09 samples/sec	cross-entropy=16.983677	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,440 [INFO]  Epoch[0] Train-cross-entropy=16.779902
+2022-01-16 21:00:11,440 [INFO]  Epoch[0] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,441 [INFO]  Epoch[0] Time cost=0.123
+2022-01-16 21:00:11,444 [INFO]  Saved checkpoint to "item_visibility\model-0000.params"
+2022-01-16 21:00:11,453 [INFO]  Epoch[0] Validation-cross-entropy=15.402032
+2022-01-16 21:00:11,454 [INFO]  Epoch[0] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,519 [INFO]  Epoch[1] Batch [0-105]	Speed: 26456.82 samples/sec	cross-entropy=16.130374	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,592 [INFO]  Epoch[1] Train-cross-entropy=16.779212
+2022-01-16 21:00:11,593 [INFO]  Epoch[1] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,593 [INFO]  Epoch[1] Time cost=0.138
+2022-01-16 21:00:11,596 [INFO]  Saved checkpoint to "item_visibility\model-0001.params"
+2022-01-16 21:00:11,604 [INFO]  Epoch[1] Validation-cross-entropy=15.417865
+2022-01-16 21:00:11,605 [INFO]  Epoch[1] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,686 [INFO]  Epoch[2] Batch [0-105]	Speed: 20973.58 samples/sec	cross-entropy=16.036737	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,751 [INFO]  Epoch[2] Train-cross-entropy=16.769555
+2022-01-16 21:00:11,752 [INFO]  Epoch[2] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,752 [INFO]  Epoch[2] Time cost=0.147
+2022-01-16 21:00:11,754 [INFO]  Saved checkpoint to "item_visibility\model-0002.params"
+2022-01-16 21:00:11,763 [INFO]  Epoch[2] Validation-cross-entropy=15.417491
+2022-01-16 21:00:11,764 [INFO]  Epoch[2] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,831 [INFO]  Epoch[3] Batch [0-105]	Speed: 25418.37 samples/sec	cross-entropy=15.968642	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,898 [INFO]  Epoch[3] Train-cross-entropy=16.758412
+2022-01-16 21:00:11,898 [INFO]  Epoch[3] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,898 [INFO]  Epoch[3] Time cost=0.134
+2022-01-16 21:00:11,901 [INFO]  Saved checkpoint to "item_visibility\model-0003.params"
+2022-01-16 21:00:11,911 [INFO]  Epoch[3] Validation-cross-entropy=15.409692
+2022-01-16 21:00:11,912 [INFO]  Epoch[3] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:11,984 [INFO]  Epoch[4] Batch [0-105]	Speed: 23469.95 samples/sec	cross-entropy=15.915807	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,046 [INFO]  Epoch[4] Train-cross-entropy=16.748767
+2022-01-16 21:00:12,046 [INFO]  Epoch[4] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,046 [INFO]  Epoch[4] Time cost=0.134
+2022-01-16 21:00:12,049 [INFO]  Saved checkpoint to "item_visibility\model-0004.params"
+2022-01-16 21:00:12,056 [INFO]  Epoch[4] Validation-cross-entropy=15.394978
+2022-01-16 21:00:12,057 [INFO]  Epoch[4] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,130 [INFO]  Epoch[5] Batch [0-105]	Speed: 23481.92 samples/sec	cross-entropy=15.870444	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,194 [INFO]  Epoch[5] Train-cross-entropy=16.741197
+2022-01-16 21:00:12,195 [INFO]  Epoch[5] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,195 [INFO]  Epoch[5] Time cost=0.138
+2022-01-16 21:00:12,198 [INFO]  Saved checkpoint to "item_visibility\model-0005.params"
+2022-01-16 21:00:12,208 [INFO]  Epoch[5] Validation-cross-entropy=15.377604
+2022-01-16 21:00:12,208 [INFO]  Epoch[5] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,288 [INFO]  Epoch[6] Batch [0-105]	Speed: 21315.61 samples/sec	cross-entropy=15.835067	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,359 [INFO]  Epoch[6] Train-cross-entropy=16.736137
+2022-01-16 21:00:12,360 [INFO]  Epoch[6] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,360 [INFO]  Epoch[6] Time cost=0.152
+2022-01-16 21:00:12,363 [INFO]  Saved checkpoint to "item_visibility\model-0006.params"
+2022-01-16 21:00:12,370 [INFO]  Epoch[6] Validation-cross-entropy=15.357791
+2022-01-16 21:00:12,370 [INFO]  Epoch[6] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,434 [INFO]  Epoch[7] Batch [0-105]	Speed: 26694.87 samples/sec	cross-entropy=15.800862	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,499 [INFO]  Epoch[7] Train-cross-entropy=16.733232
+2022-01-16 21:00:12,499 [INFO]  Epoch[7] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,499 [INFO]  Epoch[7] Time cost=0.129
+2022-01-16 21:00:12,501 [INFO]  Saved checkpoint to "item_visibility\model-0007.params"
+2022-01-16 21:00:12,512 [INFO]  Epoch[7] Validation-cross-entropy=15.327915
+2022-01-16 21:00:12,512 [INFO]  Epoch[7] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,584 [INFO]  Epoch[8] Batch [0-105]	Speed: 23818.14 samples/sec	cross-entropy=15.766548	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,659 [INFO]  Epoch[8] Train-cross-entropy=16.731714
+2022-01-16 21:00:12,659 [INFO]  Epoch[8] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,659 [INFO]  Epoch[8] Time cost=0.147
+2022-01-16 21:00:12,663 [INFO]  Saved checkpoint to "item_visibility\model-0008.params"
+2022-01-16 21:00:12,673 [INFO]  Epoch[8] Validation-cross-entropy=15.292043
+2022-01-16 21:00:12,674 [INFO]  Epoch[8] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,759 [INFO]  Epoch[9] Batch [0-105]	Speed: 20140.49 samples/sec	cross-entropy=15.733479	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,831 [INFO]  Epoch[9] Train-cross-entropy=16.730881
+2022-01-16 21:00:12,831 [INFO]  Epoch[9] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,831 [INFO]  Epoch[9] Time cost=0.157
+2022-01-16 21:00:12,834 [INFO]  Saved checkpoint to "item_visibility\model-0009.params"
+2022-01-16 21:00:12,843 [INFO]  Epoch[9] Validation-cross-entropy=15.252837
+2022-01-16 21:00:12,843 [INFO]  Epoch[9] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,914 [INFO]  Epoch[10] Batch [0-105]	Speed: 23887.83 samples/sec	cross-entropy=15.705468	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,975 [INFO]  Epoch[10] Train-cross-entropy=16.730692
+2022-01-16 21:00:12,975 [INFO]  Epoch[10] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:12,976 [INFO]  Epoch[10] Time cost=0.133
+2022-01-16 21:00:12,979 [INFO]  Saved checkpoint to "item_visibility\model-0010.params"
+2022-01-16 21:00:12,985 [INFO]  Epoch[10] Validation-cross-entropy=15.212676
+2022-01-16 21:00:12,985 [INFO]  Epoch[10] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,047 [INFO]  Epoch[11] Batch [0-105]	Speed: 27529.42 samples/sec	cross-entropy=15.678168	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,107 [INFO]  Epoch[11] Train-cross-entropy=16.732001
+2022-01-16 21:00:13,107 [INFO]  Epoch[11] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,107 [INFO]  Epoch[11] Time cost=0.122
+2022-01-16 21:00:13,109 [INFO]  Saved checkpoint to "item_visibility\model-0011.params"
+2022-01-16 21:00:13,120 [INFO]  Epoch[11] Validation-cross-entropy=15.172998
+2022-01-16 21:00:13,120 [INFO]  Epoch[11] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,189 [INFO]  Epoch[12] Batch [0-105]	Speed: 24798.10 samples/sec	cross-entropy=15.653986	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,250 [INFO]  Epoch[12] Train-cross-entropy=16.734416
+2022-01-16 21:00:13,250 [INFO]  Epoch[12] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,250 [INFO]  Epoch[12] Time cost=0.130
+2022-01-16 21:00:13,253 [INFO]  Saved checkpoint to "item_visibility\model-0012.params"
+2022-01-16 21:00:13,261 [INFO]  Epoch[12] Validation-cross-entropy=15.134483
+2022-01-16 21:00:13,261 [INFO]  Epoch[12] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,322 [INFO]  Epoch[13] Batch [0-105]	Speed: 27759.23 samples/sec	cross-entropy=15.631543	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,384 [INFO]  Epoch[13] Train-cross-entropy=16.736766
+2022-01-16 21:00:13,384 [INFO]  Epoch[13] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,384 [INFO]  Epoch[13] Time cost=0.123
+2022-01-16 21:00:13,387 [INFO]  Saved checkpoint to "item_visibility\model-0013.params"
+2022-01-16 21:00:13,395 [INFO]  Epoch[13] Validation-cross-entropy=15.094499
+2022-01-16 21:00:13,395 [INFO]  Epoch[13] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,460 [INFO]  Epoch[14] Batch [0-105]	Speed: 26240.27 samples/sec	cross-entropy=15.608225	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,525 [INFO]  Epoch[14] Train-cross-entropy=16.737895
+2022-01-16 21:00:13,525 [INFO]  Epoch[14] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,525 [INFO]  Epoch[14] Time cost=0.130
+2022-01-16 21:00:13,527 [INFO]  Saved checkpoint to "item_visibility\model-0014.params"
+2022-01-16 21:00:13,535 [INFO]  Epoch[14] Validation-cross-entropy=15.057208
+2022-01-16 21:00:13,535 [INFO]  Epoch[14] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,602 [INFO]  Epoch[15] Batch [0-105]	Speed: 25436.08 samples/sec	cross-entropy=15.584815	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,660 [INFO]  Epoch[15] Train-cross-entropy=16.738203
+2022-01-16 21:00:13,661 [INFO]  Epoch[15] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,661 [INFO]  Epoch[15] Time cost=0.126
+2022-01-16 21:00:13,664 [INFO]  Saved checkpoint to "item_visibility\model-0015.params"
+2022-01-16 21:00:13,671 [INFO]  Epoch[15] Validation-cross-entropy=15.027319
+2022-01-16 21:00:13,671 [INFO]  Epoch[15] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,737 [INFO]  Epoch[16] Batch [0-105]	Speed: 25508.36 samples/sec	cross-entropy=15.561061	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,800 [INFO]  Epoch[16] Train-cross-entropy=16.735972
+2022-01-16 21:00:13,800 [INFO]  Epoch[16] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,800 [INFO]  Epoch[16] Time cost=0.130
+2022-01-16 21:00:13,803 [INFO]  Saved checkpoint to "item_visibility\model-0016.params"
+2022-01-16 21:00:13,811 [INFO]  Epoch[16] Validation-cross-entropy=15.006250
+2022-01-16 21:00:13,812 [INFO]  Epoch[16] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,881 [INFO]  Epoch[17] Batch [0-105]	Speed: 24761.77 samples/sec	cross-entropy=15.540346	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,941 [INFO]  Epoch[17] Train-cross-entropy=16.732850
+2022-01-16 21:00:13,941 [INFO]  Epoch[17] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:13,941 [INFO]  Epoch[17] Time cost=0.129
+2022-01-16 21:00:13,944 [INFO]  Saved checkpoint to "item_visibility\model-0017.params"
+2022-01-16 21:00:13,953 [INFO]  Epoch[17] Validation-cross-entropy=14.994132
+2022-01-16 21:00:13,953 [INFO]  Epoch[17] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,015 [INFO]  Epoch[18] Batch [0-105]	Speed: 27243.11 samples/sec	cross-entropy=15.522390	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,079 [INFO]  Epoch[18] Train-cross-entropy=16.729099
+2022-01-16 21:00:14,079 [INFO]  Epoch[18] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,079 [INFO]  Epoch[18] Time cost=0.126
+2022-01-16 21:00:14,082 [INFO]  Saved checkpoint to "item_visibility\model-0018.params"
+2022-01-16 21:00:14,091 [INFO]  Epoch[18] Validation-cross-entropy=14.987346
+2022-01-16 21:00:14,091 [INFO]  Epoch[18] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,157 [INFO]  Epoch[19] Batch [0-105]	Speed: 26107.56 samples/sec	cross-entropy=15.506217	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,221 [INFO]  Epoch[19] Train-cross-entropy=16.725428
+2022-01-16 21:00:14,221 [INFO]  Epoch[19] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,221 [INFO]  Epoch[19] Time cost=0.130
+2022-01-16 21:00:14,224 [INFO]  Saved checkpoint to "item_visibility\model-0019.params"
+2022-01-16 21:00:14,231 [INFO]  Epoch[19] Validation-cross-entropy=14.982417
+2022-01-16 21:00:14,231 [INFO]  Epoch[19] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,300 [INFO]  Epoch[20] Batch [0-105]	Speed: 24670.99 samples/sec	cross-entropy=15.490576	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,360 [INFO]  Epoch[20] Train-cross-entropy=16.719782
+2022-01-16 21:00:14,360 [INFO]  Epoch[20] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,360 [INFO]  Epoch[20] Time cost=0.129
+2022-01-16 21:00:14,364 [INFO]  Saved checkpoint to "item_visibility\model-0020.params"
+2022-01-16 21:00:14,373 [INFO]  Epoch[20] Validation-cross-entropy=14.979984
+2022-01-16 21:00:14,373 [INFO]  Epoch[20] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,442 [INFO]  Epoch[21] Batch [0-105]	Speed: 24802.90 samples/sec	cross-entropy=15.476457	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,508 [INFO]  Epoch[21] Train-cross-entropy=16.714157
+2022-01-16 21:00:14,509 [INFO]  Epoch[21] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,509 [INFO]  Epoch[21] Time cost=0.136
+2022-01-16 21:00:14,511 [INFO]  Saved checkpoint to "item_visibility\model-0021.params"
+2022-01-16 21:00:14,519 [INFO]  Epoch[21] Validation-cross-entropy=14.979746
+2022-01-16 21:00:14,519 [INFO]  Epoch[21] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,589 [INFO]  Epoch[22] Batch [0-105]	Speed: 24511.54 samples/sec	cross-entropy=15.463577	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,648 [INFO]  Epoch[22] Train-cross-entropy=16.706904
+2022-01-16 21:00:14,648 [INFO]  Epoch[22] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,648 [INFO]  Epoch[22] Time cost=0.128
+2022-01-16 21:00:14,650 [INFO]  Saved checkpoint to "item_visibility\model-0022.params"
+2022-01-16 21:00:14,659 [INFO]  Epoch[22] Validation-cross-entropy=14.977068
+2022-01-16 21:00:14,659 [INFO]  Epoch[22] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,725 [INFO]  Epoch[23] Batch [0-105]	Speed: 25742.83 samples/sec	cross-entropy=15.452063	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,791 [INFO]  Epoch[23] Train-cross-entropy=16.698869
+2022-01-16 21:00:14,791 [INFO]  Epoch[23] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,791 [INFO]  Epoch[23] Time cost=0.132
+2022-01-16 21:00:14,794 [INFO]  Saved checkpoint to "item_visibility\model-0023.params"
+2022-01-16 21:00:14,803 [INFO]  Epoch[23] Validation-cross-entropy=14.975343
+2022-01-16 21:00:14,803 [INFO]  Epoch[23] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,871 [INFO]  Epoch[24] Batch [0-105]	Speed: 24975.48 samples/sec	cross-entropy=15.443239	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,943 [INFO]  Epoch[24] Train-cross-entropy=16.691817
+2022-01-16 21:00:14,943 [INFO]  Epoch[24] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:14,943 [INFO]  Epoch[24] Time cost=0.140
+2022-01-16 21:00:14,946 [INFO]  Saved checkpoint to "item_visibility\model-0024.params"
+2022-01-16 21:00:14,954 [INFO]  Epoch[24] Validation-cross-entropy=14.975169
+2022-01-16 21:00:14,954 [INFO]  Epoch[24] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,023 [INFO]  Epoch[25] Batch [0-105]	Speed: 24697.89 samples/sec	cross-entropy=15.435841	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,082 [INFO]  Epoch[25] Train-cross-entropy=16.685730
+2022-01-16 21:00:15,082 [INFO]  Epoch[25] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,082 [INFO]  Epoch[25] Time cost=0.128
+2022-01-16 21:00:15,085 [INFO]  Saved checkpoint to "item_visibility\model-0025.params"
+2022-01-16 21:00:15,093 [INFO]  Epoch[25] Validation-cross-entropy=14.974724
+2022-01-16 21:00:15,093 [INFO]  Epoch[25] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,164 [INFO]  Epoch[26] Batch [0-105]	Speed: 23992.42 samples/sec	cross-entropy=15.428996	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,223 [INFO]  Epoch[26] Train-cross-entropy=16.678896
+2022-01-16 21:00:15,223 [INFO]  Epoch[26] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,223 [INFO]  Epoch[26] Time cost=0.130
+2022-01-16 21:00:15,225 [INFO]  Saved checkpoint to "item_visibility\model-0026.params"
+2022-01-16 21:00:15,233 [INFO]  Epoch[26] Validation-cross-entropy=14.973872
+2022-01-16 21:00:15,233 [INFO]  Epoch[26] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,298 [INFO]  Epoch[27] Batch [0-105]	Speed: 26233.04 samples/sec	cross-entropy=15.422501	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,356 [INFO]  Epoch[27] Train-cross-entropy=16.673475
+2022-01-16 21:00:15,357 [INFO]  Epoch[27] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,357 [INFO]  Epoch[27] Time cost=0.124
+2022-01-16 21:00:15,359 [INFO]  Saved checkpoint to "item_visibility\model-0027.params"
+2022-01-16 21:00:15,366 [INFO]  Epoch[27] Validation-cross-entropy=14.975424
+2022-01-16 21:00:15,366 [INFO]  Epoch[27] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,433 [INFO]  Epoch[28] Batch [0-105]	Speed: 25064.85 samples/sec	cross-entropy=15.416331	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,493 [INFO]  Epoch[28] Train-cross-entropy=16.668777
+2022-01-16 21:00:15,493 [INFO]  Epoch[28] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,493 [INFO]  Epoch[28] Time cost=0.127
+2022-01-16 21:00:15,496 [INFO]  Saved checkpoint to "item_visibility\model-0028.params"
+2022-01-16 21:00:15,504 [INFO]  Epoch[28] Validation-cross-entropy=14.976628
+2022-01-16 21:00:15,505 [INFO]  Epoch[28] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,574 [INFO]  Epoch[29] Batch [0-105]	Speed: 24437.16 samples/sec	cross-entropy=15.410772	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,634 [INFO]  Epoch[29] Train-cross-entropy=16.664846
+2022-01-16 21:00:15,634 [INFO]  Epoch[29] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,634 [INFO]  Epoch[29] Time cost=0.129
+2022-01-16 21:00:15,638 [INFO]  Saved checkpoint to "item_visibility\model-0029.params"
+2022-01-16 21:00:15,645 [INFO]  Epoch[29] Validation-cross-entropy=14.977992
+2022-01-16 21:00:15,646 [INFO]  Epoch[29] Validation-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,712 [INFO]  Epoch[30] Batch [0-105]	Speed: 25814.51 samples/sec	cross-entropy=15.406502	Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,773 [INFO]  Epoch[30] Train-cross-entropy=16.661268
+2022-01-16 21:00:15,773 [INFO]  Epoch[30] Train-Item_Visibility-accuracy=0.000000
+2022-01-16 21:00:15,773 [INFO]  Epoch[30] Time cost=0.127
+2022-01-16 21:00:15,775 [INFO]  Saved checkpoint to "item_visibility\model-0030.params"
+2022-01-16 21:00:15,783 [INFO]  No improvement detected for 5 epochs compared to 14.974724074204763 last error obtained: 14.980152805646261, stopping here
+2022-01-16 21:00:15,784 [INFO]  
+========== done (4.46892786026001 s) fit model

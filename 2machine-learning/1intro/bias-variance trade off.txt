@@ -1,0 +1,1 @@
+Se refiere al hecho de que la varianza de un estimador puede ser reducida si estamos dispuestos a incrementar el sesgo del mismo. Sucede igual en el otro sentido.

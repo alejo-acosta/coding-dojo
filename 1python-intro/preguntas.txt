@@ -1,0 +1,29 @@
+¿Cuál es la diferencia entre una lista y una tupla en Python?
+La tupla es inmutable, no puede ser cambiada una vez que se declara. La lista es mutable, puede modificarse.
+
+¿Es necesario el indentado en Python?
+Si, la indentación indica jerarquía en el código.
+
+¿Qué es un comentario en Python y cómo escribirías uno?
+Es texto que no se ejecuta como código. Toda lo que está después de un signo numeral # será considerado comentario.
+
+¿Qué es un diccionario en Python?
+Es un arreglo de datos no ordenado que almacena pares de llaves (únicas) y valores.
+
+¿Cómo convertirías una cadena entera en mayúsculas?
+str.upper()
+
+¿Qué son los índices negativos y cómo se usan?
+Los índices negativos indexan un arreglo desde el último elemento. 
+
+¿Cómo harías referencia a un elemento específico dentro de un diccionario Python?
+diccionario[‘clave_deseada’]
+
+¿Qué hace el método .pop() a una lista?
+Elimina un elemento definido en una lista.
+
+¿Cómo accederías a los últimos 3 elementos en una lista dada?
+lista[-3:]
+
+¿Qué es la función enumerate y por qué se usa?
+La función ayuda a enumerar elementos de un arreglo. Devuelve pares de datos donde el primero corresponde al número de elemento (0,1,2,3,…,n) y el segundo elemento corresponde al valor de la lista (l[0], l[1], l[2], l[3],…,l[n]).

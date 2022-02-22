@@ -1,0 +1,15 @@
+id	Identificador
+state	Pais
+stop_date	Día de la multa
+county_name	Ciudad
+county_fips	Código de multa
+police_department	Departamento de policia
+driver_gender	Sexo
+driver_birthdate	Fecha de nacimiento
+driver_race	Autoidentificación étnica
+violation_raw	Ley infringida
+officer_id	Identicación del policia
+driver_age	Edad
+violation	Infracción
+wk_day	semana
+y_day	Día
