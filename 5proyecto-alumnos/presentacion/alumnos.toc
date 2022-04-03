@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{2}{0}{1}
+\beamer@sectionintoc {2}{Datos}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Var. Objetivo}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Var. explicativas}{5}{0}{2}
+\beamer@sectionintoc {3}{Estadística descriptiva}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Ciclo}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Colegio}{7}{0}{3}
+\beamer@sectionintoc {4}{Modelos}{8}{0}{4}
+\beamer@sectionintoc {5}{Resultados}{9}{0}{5}
+\beamer@subsectionintoc {5}{1}{Accuracy}{9}{0}{5}
+\beamer@subsectionintoc {5}{2}{Importancia variables}{10}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones}{11}{0}{6}
